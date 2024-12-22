@@ -1,0 +1,4 @@
+Последовательность белка: MSTLTSVSGFPRIGQNRELKKIIEGYWKGANDLAAVKATAAELRAKHWRLQQAAGIDLIASNDFSYYDQMLDTAILLNVIPQRYQRLAFDDQEDTLFAMA
+Предсказание структуры: ESMFold, AlphaFold2
+Выравнивание структур: TM-align
+Вывод по выравниванию: оба предсказания подтверждают общий свёртывающийся домен, несмотря на небольшие различия.
